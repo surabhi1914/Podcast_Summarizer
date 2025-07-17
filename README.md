@@ -92,17 +92,7 @@ streamlit run frontend/app.py
 
 ## 📁 Project Structure
 
-Podcast_Summarizer/
-├── backend/
-│ ├── whisper_transcriber.py
-│ ├── summarizer.py
-│ ├── chapters.py
-│ └── pdf_exporter.py
-├── frontend/
-│ └── app.py
-├── uploads/
-├── requirements.txt
-└── README.md
+<img width="208" height="235" alt="image" src="https://github.com/user-attachments/assets/52bbb35a-25b5-4945-a6dd-32357abc7ec9" />
 
 
 ---
