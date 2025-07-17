@@ -1,0 +1,20 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Audio uploads (user-generated)
+uploads/
+
+# VS Code or PyCharm settings
+.vscode/
+.idea/
+
+# Temporary files
+*.pyc
+*.pyo
+*.pdf
+*.log
