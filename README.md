@@ -18,7 +18,7 @@
 🧠 View a **clean summary** of the content using HuggingFace Transformers  
 📌 Auto-detect **topic chapters** with real timestamps  
 📄 Export everything as `.txt` or **formatted PDF**  
-🎵 Audio player with chapter links (optional)
+
 
 ---
 
@@ -79,7 +79,7 @@ streamlit run frontend/app.py
 - [x] PDF export with formatting  
 - [x] Clean UI using Streamlit  
 - [ ] Firebase/Supabase integration for cloud saving (coming soon)  
-- [ ] Deploy to Streamlit Cloud (in progress)
+
 
 ---
 
